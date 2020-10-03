@@ -1,2 +1,3 @@
 # variegatedq.github.io
-Personal website and portfolio
+
+Juhi Malani's personal website and portfolio 
